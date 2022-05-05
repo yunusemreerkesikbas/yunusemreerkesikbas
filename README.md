@@ -1,4 +1,4 @@
-Hi 👋 My name is Yunus Emre Erkesikbas
+As a programmer would imagine it 
 ======================================
 
 Computer Engineering Student | Web Developer
