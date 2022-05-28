@@ -4,7 +4,7 @@ As a programmer would imagine it
 Computer Engineering Student | Web Developer
 --------------------------------------------
 
-I am a Computer Engineering student at On Dokuz Mayıs University. I've been dealing with software since 2021. I know 'Python, Ruby, Javascript, C' languages. I am currently interested in web development. I write my codes in accordance with the principles of 'OOP, SOLID , DESIGN PATTERN'
+I am a Computer Engineering student at 19 May University. I've been dealing with software since 2021. I know 'Python, Ruby, Javascript, C' languages. I am currently interested in web development. I write my codes in accordance with the principles of 'OOP, SOLID , DESIGN PATTERN'
 
 * 🌍  I'm based in Türkiye, Samsun - Konya
 * ✉️  You can contact me at [yunusemreyee64@gmail.com](mailto:yunusemreyee64@gmail.com)
