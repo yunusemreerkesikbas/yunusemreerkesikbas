@@ -1,4 +1,4 @@
-As a programmer would imagine it 
+As a developer would imagine it 🤙
 ======================================
 
 Computer Engineering Student | Web Developer
