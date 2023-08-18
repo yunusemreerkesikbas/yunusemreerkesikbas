@@ -1,7 +1,7 @@
 As a developer would imagine it 🤙
 ======================================
 
-Computer Engineering Student | Frontend Developer
+Computer Engineering Student | Software Developer
 --------------------------------------------
 
 Hello,
