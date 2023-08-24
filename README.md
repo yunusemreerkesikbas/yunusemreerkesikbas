@@ -9,6 +9,9 @@ Greetings, fellow denizens of the digital realm,
 
 I am Emre, a passionate **Junior Sorcerer of Code**, diligently crafting innovation within the world of technology. As a dedicated disciple of Computer Engineering at Ondokuz Mayıs University, my journey epitomizes perpetual learning and boundless creation.
 
+<img align="right" alt="GIF" src="https://github.com/yunusemreerkesikbas/yunusemreerkesikbas/blob/master/coding.gif?raw=true" width="500" height="320" />
+
+
 ## 👨‍💻 Code Enthusiast
 As a **Junior Sorcerer of Code**, I'm a passionate explorer of the programming realm. The digital canvas is my playground, and lines of code are my brushes, crafting functional art.
 
@@ -36,9 +39,6 @@ While I'm a junior today, I harbor a senior's ambition. With each line of code, 
 Stay curious and keep coding,
 **Emre** 🚀🔥
 
-<div align="center">
-  <img src="https://gfycat.com/astonishingdentalgermanspitz" alt="Coding GIF" width="300"/>
-</div>
 
 * 🌍  Turkey, Samsun - Konya
 * ✉️  [erkesikbasyunusemre@gmail.com](mailto:erkesikbasyunusemre@gmail.com)
