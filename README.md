@@ -22,19 +22,10 @@ In the ever-evolving saga of technology, I'm an unquenchable learner. Every chal
 With **Javascript**, **Typescript**, and the enchanting **React** , **Next.js** and **Angular** frameworks at my side, I command the frontend realm. I wield these tools to create interfaces that not only dazzle but also deliver seamless interactions.
 
 ## 🏰 Backend Journeyman
-Navigating the backend realms, I'm well-versed in **PHP** and the enchanting **CodeIgniter** and **Laravel** frameworks. Together, we construct the foundations upon which digital kingdoms are built.
+Navigating the backend realms, I'm versed in **PHP** and the enchanting **CodeIgniter** and **Laravel** frameworks. Together, we construct the foundations upon which digital kingdoms are built.
 
 ## 🌍 Polyglot Explorer
 I'm not confined to a single dialect – **Python**, **Ruby**, **C**, and more are the languages I traverse. Though a junior, I've embarked on a journey to conquer a variety of linguistic landscapes.
-
-## 💡 Innovative Mindset
-Each project is a chance to innovate. I blend logic, creativity, and a dash of magic to conjure solutions that not only solve problems but also inspire awe.
-
-## 🤝 Collaborative Spirit
-In the grand tapestry of coding, collaboration is key. I thrive in team environments, where diverse minds unite to weave solutions that are more than the sum of their parts.
-
-## 🔮 Vision for Growth
-While I'm a junior today, I harbor a senior's ambition. With each line of code, I'm building the foundation for a future where my expertise shines even brighter.
 
 Stay curious and keep coding,
 **Emre** 🚀🔥
@@ -88,4 +79,11 @@ Backend:
   <a href="https://www.linkedin.com/in/yunusemreerkesikbas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/yunuseerkskbs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunusemreerkesikbas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemreerkesikbas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
