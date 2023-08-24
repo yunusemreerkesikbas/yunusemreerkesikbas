@@ -19,7 +19,7 @@ As a **Junior Sorcerer of Code**, I'm a passionate explorer of the programming r
 In the ever-evolving saga of technology, I'm an unquenchable learner. Every challenge is an opportunity to acquire new spells and incantations for my coding repertoire.
 
 ## 🌐 Frontend Adept
-With **Javascript**, **Typescript**, and the enchanting **React** and **Next.js** frameworks at my side, I command the frontend realm. I wield these tools to create interfaces that not only dazzle but also deliver seamless interactions.
+With **Javascript**, **Typescript**, and the enchanting **React** , **Next.js** and **Angular** frameworks at my side, I command the frontend realm. I wield these tools to create interfaces that not only dazzle but also deliver seamless interactions.
 
 ## 🏰 Backend Journeyman
 Navigating the backend realms, I'm well-versed in **PHP** and the enchanting **CodeIgniter** and **Laravel** frameworks. Together, we construct the foundations upon which digital kingdoms are built.
