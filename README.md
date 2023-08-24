@@ -1,23 +1,47 @@
-As a developer would imagine it 🤙
+Junior Sorcerer of Code 🎩
 ======================================
 
 Computer Engineering Student | Software Developer
 --------------------------------------------
 
-Hello,
 
-The world of software is one of the most fascinating areas where we can push the limits of our imagination. I strive to improve myself in this field every day and continue to push my limits.
+Greetings, fellow denizens of the digital realm,
 
-There is a quote that goes, "coders chase their dreams, and coding possibilities chase them." Following this philosophy, I try to constantly improve myself and learn new technologies.
+I am Emre, a passionate **Junior Sorcerer of Code**, diligently crafting innovation within the world of technology. As a dedicated disciple of Computer Engineering at Ondokuz Mayıs University, my journey epitomizes perpetual learning and boundless creation.
 
-I am a Frontend Developer and I build projects with JavaScript, TypeScript, Angular, React, and Next.js. Additionally, I write CMS with PHP CodeIgniter and know other languages such as C, Ruby, and Python.
+## 👨‍💻 Code Enthusiast
+As a **Junior Sorcerer of Code**, I'm a passionate explorer of the programming realm. The digital canvas is my playground, and lines of code are my brushes, crafting functional art.
 
-You can check out my work on my profile and learn more about me. Also, if you want to get in touch, feel free to reach out to me anytime.
+## 📚 Eternal Learner
+In the ever-evolving saga of technology, I'm an unquenchable learner. Every challenge is an opportunity to acquire new spells and incantations for my coding repertoire.
 
-Thank you!
+## 🌐 Frontend Adept
+With **Javascript**, **Typescript**, and the enchanting **React** and **Next.js** frameworks at my side, I command the frontend realm. I wield these tools to create interfaces that not only dazzle but also deliver seamless interactions.
 
-* 🌍  I'm based in Turkey, Samsun - Konya
-* ✉️  You can contact me at [erkesikbasyunusemre@gmail.com](mailto:erkesikbasyunusemre@gmail.com)
+## 🏰 Backend Journeyman
+Navigating the backend realms, I'm well-versed in **PHP** and the enchanting **CodeIgniter** and **Laravel** frameworks. Together, we construct the foundations upon which digital kingdoms are built.
+
+## 🌍 Polyglot Explorer
+I'm not confined to a single dialect – **Python**, **Ruby**, **C**, and more are the languages I traverse. Though a junior, I've embarked on a journey to conquer a variety of linguistic landscapes.
+
+## 💡 Innovative Mindset
+Each project is a chance to innovate. I blend logic, creativity, and a dash of magic to conjure solutions that not only solve problems but also inspire awe.
+
+## 🤝 Collaborative Spirit
+In the grand tapestry of coding, collaboration is key. I thrive in team environments, where diverse minds unite to weave solutions that are more than the sum of their parts.
+
+## 🔮 Vision for Growth
+While I'm a junior today, I harbor a senior's ambition. With each line of code, I'm building the foundation for a future where my expertise shines even brighter.
+
+Stay curious and keep coding,
+**Emre** 🚀🔥
+
+<div align="center">
+  <img src="https://gfycat.com/astonishingdentalgermanspitz" alt="Coding GIF" width="300"/>
+</div>
+
+* 🌍  Turkey, Samsun - Konya
+* ✉️  [erkesikbasyunusemre@gmail.com](mailto:erkesikbasyunusemre@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -43,3 +67,5 @@ Thank you!
 ### Socials
 
 <p align="left">  <a href="http://www.instagram.com/yunuseerkesikbas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yunusemreerkesikbas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yunuseerkskbs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
