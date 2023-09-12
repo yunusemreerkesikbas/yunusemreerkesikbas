@@ -1,7 +1,7 @@
 Junior Sorcerer of Code 🎩
 ======================================
 
-Computer Engineering Student | Software Developer
+Software Developer
 --------------------------------------------
 
 
