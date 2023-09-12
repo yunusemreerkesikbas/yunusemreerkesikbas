@@ -7,7 +7,7 @@ Software Developer
 
 Greetings, fellow denizens of the digital realm,
 
-I am Emre, a passionate **Junior Sorcerer of Code**, diligently crafting innovation within the world of technology. As a dedicated disciple of Computer Engineering at Ondokuz Mayıs University, my journey epitomizes perpetual learning and boundless creation.
+I am Emre, a passionate **Junior Sorcerer of Code**, diligently crafting innovation within the world of technology. My journey epitomizes perpetual learning and boundless creation.
 
 <img align="right" alt="GIF" src="https://github.com/yunusemreerkesikbas/yunusemreerkesikbas/blob/master/coding.gif?raw=true" width="400" height="250" />
 
