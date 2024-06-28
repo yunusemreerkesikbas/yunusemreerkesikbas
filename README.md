@@ -24,9 +24,9 @@ I'm always looking for interesting projects to collaborate on. If you have somet
 
 * 🌍 Turkey, Samsun - Konya
 * ✉️  [erkesikbasyunusemre@gmail.com](mailto:erkesikbasyunusemre@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/in/yunusemreerkesikbas) (in**_yunusemreerkesikbas_**)
-* 🌐 [Twitter](https://www.twitter.com/yunuseerkskbs) (**@_yunuseerkskbs_**)
-* 🌐 [Instagram](http://www.instagram.com/yemreerkeskbs) (**_yemreerkeskbs_**)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/yunusemreerkesikbas) (**@yunusemreerkesikbas**)
+* 🌐 [Twitter](https://www.twitter.com/yunuseerkskbs) (**@yunuseerkskbs**)
+* 🌐 [Instagram](http://www.instagram.com/yemreerkeskbs) (**@yemreerkeskbs**)
 
 ##    GitHub Stats
 
