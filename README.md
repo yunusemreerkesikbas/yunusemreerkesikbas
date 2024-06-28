@@ -6,18 +6,11 @@ Hi there!  I'm Yunus Emre, a passionate **Junior Frontend Developer** constantly
 
 ##  Technical Expertise
 
-**Frontend:**
 
 - **JavaScript** 
 - **TypeScript** for strong-typed development
 - **Angular** **React** and **Next.js** for building dynamic and performant user interfaces
 - **HTML5 & CSS3** for solid foundational web development
-
-**Backend:**
-
-- **PHP** with a focus on secure and maintainable backend development
-- **Laravel** framework for rapid development and robust architecture
-
 
 ##  Continuous Learning
 
