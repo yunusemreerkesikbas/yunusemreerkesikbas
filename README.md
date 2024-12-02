@@ -2,7 +2,7 @@
 
 **👨‍💻Frontend Developer**
 
-Hi there!  I'm Yunus Emre, a passionate **Junior Frontend Developer** constantly striving to push boundaries and build innovative solutions within the tech landscape. My journey is fueled by a thirst for knowledge and a relentless pursuit of crafting impactful software.
+Hi there!  I'm Yunus Emre, a passionate **Frontend Developer** constantly striving to push boundaries and build innovative solutions within the tech landscape. My journey is fueled by a thirst for knowledge and a relentless pursuit of crafting impactful software.
 
 ##  Technical Expertise
 
